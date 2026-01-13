@@ -1,4 +1,4 @@
-# AI-agents
+# AI-agents using LangChain
 
 # 📺 YouTube Video Summary Creator (LangChain RAG Agent)
 
